@@ -1,3 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+## BQs
+
+* [Page 1](README.md)
+* [README](bqs/readme.md)
